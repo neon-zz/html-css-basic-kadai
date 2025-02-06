@@ -2,7 +2,7 @@ body {
     font-family: "Arial", "Meiryo", sans-serif;
     text-align: center;
 }
-:root {
+html {
     font-size: 20px;
 }
 .blue {
@@ -21,6 +21,6 @@ h1 {
 .text-bold {
     font-weight: bold;
 }
-p .text-bold {
+#basic .text-bold span {
     font-weight: bold;
   }
